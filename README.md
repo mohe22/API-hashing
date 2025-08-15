@@ -1,5 +1,4 @@
 ﻿# API-hashing
-Here’s a concise `README.md` for your project:
 
 ---
 
@@ -36,3 +35,4 @@ auto VirtualAllocPtr = (pVirtualAlloc)ResolveFunctionByHash("kernel32.dll", 0x12
 ---
 
 This technique is often used in malware for stealth and dynamic resolution—understand it to defend against it.
+
